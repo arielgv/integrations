@@ -1,0 +1,13 @@
+profile_id = "22753"
+api_key = "Zc+Dq6eXYuNE/bqZWqwwP/XeCX0DguCy+pFkfaes93U="
+secret = "0xf13265251e1f42834a0cd14bac5c7812145f928d20e794bd69e6442738aecec4"
+
+public_JWT = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI0MDAwMDAwMDAwIiwiZXhwIjo2NTQ4NDg3NTY5fQ.o_qBZltZdDHBH3zHPQkcRhVBQCtejIuyq8V1yj5kYq8"
+private_JWT = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMjc1MyIsImV4cCI6MTczOTkzNjc0OX0.vVtbETcmi5pV1WZRkGrNEBlIKTLsUX1WlT1MlEvtses"
+
+refresh_token = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyMjc1MyIsImV4cCI6MzQ3OTg3MzQ5OH0.m_yh5qQ77gDTGztaIhbAVlDspttuvCoxXAbAKSkMjHQ"
+
+
+
+
+priv_key = '0x1f173c6505de4108c564e21de1df1c8d3e8893b09c42f88af739148fc57ec946'
